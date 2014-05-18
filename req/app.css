@@ -1,0 +1,22 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, del, dfn, em, img, ins, kbd, q, samp, small, strong, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, table, tbody, tfoot, thead, tr, th, td, article, aside, footer, header, nav, section {
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+html , body {
+height: 100%;
+}
+body {
+font: normal 100% Helvetica, Arial, sans-serif;
+z-index: 0;
+}
+.tw {
+font-family: 'Helvetica Neue', Helvetica, '微軟正黑體', Arial,sans-serif;
+}
+.en {
+font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
+}
